@@ -27,8 +27,6 @@
 #
 #  from: Max              to: Isabel     what: Tulip Red Impression       qty: 2
 #
-# (source: tulips on the blockchain - public distributed (hyper) ledger
-#    @ github.com/openblockchains/tulips )
 
 
 require "digest"    # for hash checksum digest function SHA256
